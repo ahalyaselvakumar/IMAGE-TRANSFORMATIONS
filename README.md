@@ -31,8 +31,8 @@ Display the original and all transformed images with appropriate titles using ma
 
 ## Program:
 ```python
-Developed By:AHALYA S
-Register Number:212223230006
+Developed By: AHALYA S
+Register Number: 212223230006
 ```
 i)Image Translation:
 ```
